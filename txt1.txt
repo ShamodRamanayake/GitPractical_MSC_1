@@ -1,0 +1,12 @@
+set config --global user.name "Shamod Ramanayake"
+set config --global user.email "lunaticcr@gmail.com"
+set globally
+
+Set new git
+-----
+git init
+git status
+git add index.html               // 1 file
+git add txt1.txt README.md	 // many files
+git add *.css			 // all files
+git commit -m "init commit"
