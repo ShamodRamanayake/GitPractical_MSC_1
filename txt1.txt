@@ -11,3 +11,4 @@ git add txt1.txt README.md	 // many files
 git add *.css			 // all files
 git commit -m "init commit"
 git commit -m "changed txt1"
+git commit -a -m "second commit" // add and commit
